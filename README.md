@@ -9,7 +9,7 @@ Projeto desenvolvido teve o objetivo de criar uma página web usando HTML, CSS e
 
 <h2>Veja o projeto</h2>
 
-Experimente live demo ou clique [aqui](https://dsplaygamesfull.netlify.app/):
+- Projeto hospedado no Netlify link: [DSPlayGames](https://dsplaygamesfull.netlify.app/)
 
 <p align='center'> <img src="https://i.imgur.com/luh9ciH.gif"/></p>
 
