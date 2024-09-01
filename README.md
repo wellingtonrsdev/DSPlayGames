@@ -20,7 +20,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 
 - Clone o código fonte
    ```bash
-   git clone git@github.com:wellingtonrsdev/DSPlayGames-responsivo.git
+   git clone git@github.com:wellingtonrsdev/DSPlayGames.git
    ```
 
 - Em sua IDE de preferência(utilizei Visual Studio Code), importe a pasta do projeto.
